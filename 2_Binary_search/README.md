@@ -1,0 +1,1 @@
+Program to find and count occurrences of given value in random generated list. Uses binary search. Added exception support and support faulty scenarios for extravagance.

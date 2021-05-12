@@ -1,0 +1,1 @@
+Simple program to randomly generate a list of values between 0 and given upper bound. Then program reply with how many times your given number appeared and on which positions.

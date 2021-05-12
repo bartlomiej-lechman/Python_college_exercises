@@ -1,0 +1,1 @@
+Simple implementation of AVL tree with methods allowing for deleting a children, removing an element, finding a predecessor, inserting an element and printing a result of a preorder traversal. Example tree and results included in comments.
