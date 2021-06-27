@@ -1,1 +1,0 @@
-Programs made to pass my college Python with algorithms course. Only three are here, because the rest is so simple that is not even worth uploading. I placed it here as a prove for my somewhat experience with Python.
